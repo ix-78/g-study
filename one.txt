@@ -20,3 +20,4 @@ br-tmp sudden line 0.2
 br no-fast-fwd 7.14
 br no-fast-fwd 7.15
 br no-commit 8.16
+br neo-branch 9.17
